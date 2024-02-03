@@ -7,9 +7,61 @@
                 "url": "https://explorer.securechain.ai/"
             },
             {
+                "text": "Bridge",
+                "url": "https://bridge.securechain.ai/"
+            },
+            {
+                "text": "Dex",
+                "url": "https://scai.exchange/"
+            },
+            {
+                "text": "Staking",
+                "url": "https://validator.securechain.ai/"
+            }
+        ]
+    },
+    {
+        "title": "Developers",
+        "links": [
+            {
+                "text": "Technical Docs",
+                "url": "https://docs.securechain.ai/"
+            },
+            {
                 "text": "Testnet Explorer",
                 "url": "https://testnet.securechain.ai/"
+            },
+            {
+                "text": "Testnet Faucet",
+                "url": "https://faucet.securechain.ai/"
+            },
+            {
+                "text": "Github",
+                "url": "https://github.com/securechainai"
             }
+            
+        ]
+    },
+    {
+        "title": "Resources",
+        "links": [
+            {
+                "text": "Blog",
+                "url": "https://securechain.ai/blog/"
+            },
+            {
+                "text": "Forum",
+                "url": "https://forum.securechain.ai/"
+            },
+            {
+                "text": "Learn",
+                "url": "https://youtube.com/@securechain"
+            },
+            {
+                "text": "Media Kit",
+                "url": "https://drive.google.com/drive/folders/1H3lLypoe3iX-vn5Ym7HYE-N7FzYuTgXk?usp=share_link"
+            }
+            
         ]
     }
 ]
