@@ -1,0 +1,15 @@
+[{
+		"title": "SCAI Mainnet",
+		"url": "https://explorer.securechain.ai/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/Dev4Crypto/scai-testnet/main/images/favicon.png"
+	},
+	{
+		"title": "SCAI Testnet",
+		"url": "https://testnet.securechain.ai/",
+		"group": "Testnets",
+		"isActive": true,
+		"icon": "https://raw.githubusercontent.com/Dev4Crypto/scai-testnet/main/images/favicon.png",
+		"invertIconInDarkMode": true
+	}
+]
